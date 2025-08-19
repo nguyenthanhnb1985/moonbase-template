@@ -1,68 +1,49 @@
 # 🚀 Moonbase
 
-A complete Flutter social media template with authentication, moderation, and monetization
+> Complete Flutter social media template with authentication, moderation, and monetization
 
-Show Image
-Show Image
-Show Image
-✨ Features
-🔐 Authentication - Email, Google & Apple Sign-In
-📱 Social Platform - Posts, comments, categories
-🛡️ Content Moderation - User blocking & reporting
-💰 Subscriptions - RevenueCat integration
-🏗️ Clean Architecture - BLoC pattern & repository design
-📸 Screenshots
-Coming soon...
-🚀 Quick Start
-Prerequisites
+## Features
 
-Flutter 3.0+
-Firebase project
+- 🔐 Authentication (Email, Google, Apple Sign-In)
+- 📱 Social platform with posts and comments  
+- 🛡️ Content moderation and user blocking
+- 💰 Subscription monetization with RevenueCat
+- 🏗️ Clean architecture with BLoC pattern
 
-Setup
+## Screenshots
 
-Clone the repository
-bashgit clone https://github.com/mitchkoko/moonbase-template.git
-cd moonbase-template
-flutter pub get
+*Coming soon...*
 
-Configure Firebase
+## Quick Start
 
-Create project at Firebase Console
-Add your app and download config files
-Enable Authentication & Firestore
-Uncomment Firebase initialization in main.dart
+1. **Clone and install**
+   ```bash
+   git clone https://github.com/mitchkoko/moonbase-template.git
+   cd moonbase-template
+   flutter pub get
+   ```
 
+2. **Setup Firebase**
+   - Create project at [Firebase Console](https://console.firebase.google.com)
+   - Add your app and download config files
+   - Enable Authentication & Firestore
+   - Uncomment Firebase initialization in `main.dart`
 
-Run the app
-bashflutter run
+3. **Run**
+   ```bash
+   flutter run
+   ```
 
+## Full Tutorial
 
-Optional: RevenueCat Setup
-Replace the API key in lib/features/subscriptions/data/revenuecat_constants.dart
-🏗️ Architecture
-lib/
-├── features/
-│   ├── auth/           # Authentication
-│   ├── home/          # Posts & comments  
-│   ├── moderation/    # User blocking
-│   └── subscriptions/ # Monetization
-├── components/        # Shared UI
-└── themes/           # Light/dark themes
-Built with Clean Architecture principles and BLoC state management.
-🎨 Customization
+For complete setup instructions and video tutorials, visit:
 
-Themes: Edit themes/light_mode.dart and themes/dark_mode.dart
-Categories: Modify tabs in home_page.dart
-Colors: Update ColorScheme in theme files
+**[buildlaunchmonetize.app](https://buildlaunchmonetize.app)**
 
-📱 Platform Support
-✅ iOS
-✅ Android
-❌ Web (Firebase Auth limitations)
-🤝 Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## License
 
-Built by Mitch Koko
+MIT License - see [LICENSE](LICENSE) file
+
+---
+
+Built by [Mitch Koko](https://github.com/mitchkoko)
