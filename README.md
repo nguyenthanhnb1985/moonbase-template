@@ -1,6 +1,8 @@
 # 🚀 Moonbase
 
 > Complete Flutter social media template with authentication, moderation, and monetization
+> <img width="1270" height="760" alt="BUILD" src="https://github.com/user-attachments/assets/6b944f45-fc53-4df6-8452-0f5e211e39c9" />
+
 
 ## Features
 
@@ -11,8 +13,6 @@
 - 🏗️ Clean architecture with BLoC pattern
 
 ## Screenshots
-
-*Coming soon...*
 
 ## Quick Start
 
