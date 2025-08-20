@@ -1,4 +1,4 @@
-# 🚀 Moonbase
+# 📱 Moonbase
 
 > Complete Flutter social media template with authentication, moderation, and monetization
 
