@@ -48,4 +48,4 @@ MIT License - see [LICENSE](LICENSE) file
 
 ---
 
-Built by [Mitch Koko](https://github.com/mitchkoko)
+❤️ Created by [Mitch Koko](https://youtube.com/mitchkoko)
