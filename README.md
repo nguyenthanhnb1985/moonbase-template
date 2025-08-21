@@ -1,6 +1,6 @@
 # 📱 Moonbase
 
-> Complete Flutter app template with authentication, profiles, and monetization w/ subscriptions.
+> Complete Flutter social media / reddit type app template with authentication, profiles, and monetization w/ subscriptions.
 
 <img width="1270" height="760" alt="BUILD" src="https://github.com/user-attachments/assets/6b944f45-fc53-4df6-8452-0f5e211e39c9" />
 
